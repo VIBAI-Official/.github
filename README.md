@@ -51,6 +51,3 @@ This includes:
 
 - `vib-ai-docs`  
   Public product documentation, FAQs, and user guides.
-
-- `data-contribution-guide`  
-  Public guide for AI data contribution, Quick Review, Collection, and quality standards.
